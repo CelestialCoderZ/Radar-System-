@@ -10,7 +10,7 @@ This project creates a functional radar system that scans the environment using 
 - **Distance Measurement**  Accurate detection from 2cm to 200cm
 - **Visual Radar Display** - Professional radar interface
 - **Serial Communication** Real-time data transmission
-- **Object Tracking ** Multiple object detection and display
+- **Object Tracking** Multiple object detection and display
 
 ## 🛠️ Hardware Components
 
